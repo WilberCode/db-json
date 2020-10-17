@@ -2,61 +2,61 @@
    "cursos": [
     { 
       "id":1,
-      "url":"https://drupal.ed.team/sites/default/files/imagenes-cdn-edteam/2019-04/React%20desde%20cero%20%281%29.png",
+      "url":"https://edteam-media.s3.amazonaws.com/courses/medium/4ff27f76-96a9-44ab-bb7f-ed0e17263e7c.png",
       "title":"React.js Desde Cero",
       "price":67,
       "professor":{
         "name":"Beto Quiroga",
-        "imageUrl":"https://api.ed.team/files/avatars/38118146-4b4a-4844-8959-157614e04cd1.jpg"
+        "imageUrl":"https://edteam-media.s3.amazonaws.com/users/thumbnail/e19b1e7f-6dcc-495b-883c-7d0b9b3fdf15.jpg"
       }
     },
     {
       "id":2,
-      "url":"https://drupal.ed.team/sites/default/files/styles/medium/public/imagenes-cdn-edteam/2019-01/Android%20Bases%20de%20datos.png?itok=3pW_l_7C",
+      "url":"https://edteam-media.s3.amazonaws.com/courses/big/01623668-846a-4699-84b8-e4ac871b7f9e.png",
       "title":"Android Bases de datos",
       "price":50,
       "professor":{
         "name":"José Dimas Luján",
-        "imageUrl":"https://drupal.ed.team/sites/default/files/styles/perfil_en_views_200x200_/public/pictures/2018-11/lujan.jpg?itok=By-TfmuL"
+        "imageUrl":"https://edteam-media.s3.amazonaws.com/users/thumbnail/66f015b2-0dfb-4ba9-bd0d-f7a7e1855275.jpeg"
       }
     },
     {
       "id":3,
-      "url":"https://drupal.ed.team/sites/default/files/imagenes-cdn-edteam/2018-10/Laravel%20Desde%20Cero.jpg",
+      "url":"https://edteam-media.s3.amazonaws.com/courses/medium/4af57900-d787-4256-8eb7-d3984602e312.jpg",
       "title":"Laravel Desde Cero (2019)",
       "price":74, 
       "professor":{
         "name":"Yesi Days",
-        "imageUrl":"https://api.ed.team/files/avatars/747dea4d-4438-4a7e-904a-427a5cd6aac7.jpg"
+        "imageUrl":"https://edteam-media.s3.amazonaws.com/users/thumbnail/e19b1e7f-6dcc-495b-883c-7d0b9b3fdf15.jpg"
       }
     },
     {
       "id":4,
-      "url":"https://drupal.ed.team/sites/default/files/imagenes-cdn-edteam/2018-10/swift-ii.png",
+      "url":"https://edteam-media.s3.amazonaws.com/courses/medium/84f40551-7812-4551-a7f4-a436a8621a14.png",
       "title":"Funciones y Objetos en Swift",
       "price":84, 
       "professor":{
         "name":"Juan Villalvazo ",
-        "imageUrl":"https://api.ed.team/files/avatars/7852ed52-833a-4911-a0d9-967d82c2bba3.jpg"
+        "imageUrl":"https://edteam-media.s3.amazonaws.com/users/thumbnail/66f015b2-0dfb-4ba9-bd0d-f7a7e1855275.jpeg"
       }
     },
     {
       "id":5,
-      "url":"https://drupal.ed.team/sites/default/files/styles/medium/public/courses/images/aws-iv.jpg?itok=08OK4f5U",
+      "url":"https://edteam-media.s3.amazonaws.com/courses/medium/4656f1ac-9367-4f0a-8323-1c7892b90c23.jpg",
       "title":"Servicios de cómputo",
       "price": 108, 
       "professor":{
         "name":"Manuel Rodriguez",
-        "imageUrl":"https://api.ed.team/files/avatars/a32d05c5-06be-4a75-aa6e-839693ac1aca.jpeg"
+        "imageUrl":"https://edteam-media.s3.amazonaws.com/users/thumbnail/e19b1e7f-6dcc-495b-883c-7d0b9b3fdf15.jpg"
       }
     },
     {
       "id":6,
-       "url":"https://drupal.ed.team/sites/default/files/styles/medium/public/imagenes-cdn-edteam/2018-12/Flutter.png?itok=MpF412ML",
+       "url":"https://edteam-media.s3.amazonaws.com/specialities/medium/7604bdf8-d600-43aa-a7bb-62fc2c3517d7.png",
       "title":"Flutter Desde Cero", 
       "professor":{
         "name":"Hansy Schmitt",
-        "imageUrl":"https://api.ed.team/files/avatars/2bcf0198-504f-45fd-8d69-81528fbed53d.png" 
+        "imageUrl":"https://edteam-media.s3.amazonaws.com/users/thumbnail/66f015b2-0dfb-4ba9-bd0d-f7a7e1855275.jpeg" 
       }
     }
   
